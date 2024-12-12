@@ -3,6 +3,7 @@ main {
   flex-wrap: wrap;
   gap: 24px;
   padding-block: 24px;
+ 
   
 }
 
@@ -10,5 +11,5 @@ main img {
   width: 286px;
   height: 286px;
   object-fit: cover;
-  
+  border-radius: 4%;
 }
